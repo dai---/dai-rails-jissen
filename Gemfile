@@ -23,7 +23,7 @@ gem 'email_validator', '~> 1.4.0'
 gem 'jquery-ui-rails', '~> 4.2.1'
 gem 'quiet_assets', '~> 1.0.2', group: :development
 group :test do
-  gem 'rspec-rails', '~> 3.0.0'
+  gem 'rspec-rails', '~> 3.0.0.beta2'
   gem 'spring-commands-rspec', '~> 1.0.1'
   gem 'capybara', '~> 2.2.1'
   gem 'factory_girl_rails', '~> 4.4.1'

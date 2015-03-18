@@ -1,3 +1,5 @@
+require 'bcrypt'
+
 module PasswordHolder
   extend ActiveSupport::Concern
 
